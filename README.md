@@ -12,3 +12,4 @@
 ### Olá, me chamo **Paloma.**
 A palavra **segundou** deve ser destacada.
 - segundouu
+> Escrito por Alura Start
