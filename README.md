@@ -7,6 +7,6 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
-### oLÁ, ME CHAMO **JÉSSICA.**
 
-### Olá, me chamo **Jéssica.**
+
+### Olá, me chamo **Paloma.**
